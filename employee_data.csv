@@ -1,0 +1,6 @@
+EmployeeID,HireDate,TerminationDate,Department,ReasonForLeaving
+1,2022-01-01,2023-01-10,Sales,Resignation
+2,2022-05-15,2023-04-22,IT,Retirement
+3,2022-07-20,,Sales,
+4,2022-09-01,2023-08-05,HR,Layoff
+5,2022-11-10,,IT,
